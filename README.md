@@ -18,7 +18,6 @@
 ### Productivity & Others
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pdd04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pdd04&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pdd04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=pdd04&theme=tokyo-night)
